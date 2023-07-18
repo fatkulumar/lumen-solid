@@ -9,34 +9,34 @@
 ##### Pemasangan
     composer install
 ##### Struktur
+- app
+    - Console
+    - DataTransferObject
+    - Event
+    - Exception
+    - Helper
+    - Http
+    - Jobs
+    - Listeners
+    - Models
+    - Providers
+    - Repositories
+    - Services
+    - Traits
+- bootstrap
+- database
+    - factories
+    - migrations
+    - seeders
+- public
+- resources
+    - views
+- routes
+- storage
     - app
-        - Console
-        - DataTransferObject
-        - Event
-        - Exception
-        - Helper
-        - Http
-        - Jobs
-        - Listeners
-        - Models
-        - Providers
-        - Repositories
-        - Services
-        - Traits
-    - bootstrap
-    - database
-        - factories
-        - migrations
-        - seeders
-    - public
-    - resources
-        - views
-    - routes
-    - storage
-        - app
-        - framework
-        - logs
-    - tests
+    - framework
+    - logs
+- tests
 
-####Sumber
+#### Sumber
 [Sumber belajar](https://github.com/yaza-putu/laravel-repository-with-service/tree/master/src)
